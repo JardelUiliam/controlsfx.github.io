@@ -19,7 +19,7 @@ Go to https://www.transifex.com/signup/contributor/ and fill out the form to cre
 
 ### Join a Translation Team
 
-1. Once you’ve set up your account, visit https://www.transifex.com/controlsfx/controlsfx/ to become a translator for your language.
+1. Once you’ve set up your account, visit https://explore.transifex.com/controlsfx/controlsfx/ to become a translator for your language.
 2. When you visit the project page, it looks like this. If your language is listed, click on the name of the language to go to the language’s page. Here is an example of choosing the Lithuanian translation project:
 
 ![Transifex 1.png](/images/i18n/transifex-1.png)
